@@ -1,4 +1,4 @@
-<h2 align="left">Hi All‹! My name is Swetha and I'm a Software Engineer from Hyundai</h2>
+<h2 align="left">Hi All! My name is Swetha and I'm a Software Engineer from Hyundai</h2>
 
 ###
 
